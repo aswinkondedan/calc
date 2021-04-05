@@ -1,0 +1,28 @@
+button {background-color: rgb(37, 37, 35);    
+
+}
+
+.butt{
+    height: 100px;
+    width: 100px;
+    color: rgb(44, 135, 255);
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+
+    height: 300px;
+    width: 400px;
+}
+.c
+{
+    height: 100px;
+    width: 300px;
+    border-color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+}
